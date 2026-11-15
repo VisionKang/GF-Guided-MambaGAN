@@ -1,0 +1,7 @@
+python 3.8
+torch2.1.1
+cuda11.8
+convd1 1.2.2
+mamba 
+imageio2.35.1
+timm1.0.20
