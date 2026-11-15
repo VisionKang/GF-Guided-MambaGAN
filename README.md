@@ -1,0 +1,1 @@
+The code is related to the proposed method, GF-Guided MambaGAN,which is used for the task of PET-MRI fusion. Specifically, the proposed method is constructed based on Mamba and CNN-empowered GAN  combining with the guided filter.
